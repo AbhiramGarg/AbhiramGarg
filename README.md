@@ -29,18 +29,6 @@ Here are the key technologies and skills I work with:
 
 <br>
 
-## 🚀 Featured Projects
-
-Showcasing my diverse experience across systems, algorithms, and full-stack development.
-
-| Project Name | Description | Key Technologies |
-| :--- | :--- | :--- |
-| **[SimpleBinExprParser](https://github.com/AbhiramGarg/SimpleBinExprParser)** | A custom Binary Expression Parser built in C++. Showcases expertise in compiler design fundamentals, Abstract Syntax Trees (ASTs), and efficient parsing algorithms. | `C++`, `Algorithms`, `Parsing` |
-| **[Opengl](https://github.com/AbhiramGarg/Opengl)** | A Game Development project using C++ and OpenGL. Focused on real-time rendering, 3D graphics pipeline, and hands-on engine architecture. | `C++`, `OpenGL`, `GameDev` |
-| **[fastapiXseamless](https://github.com/AbhiramGarg/fastapiXseamless)** | A backend API service leveraging the high-performance Python framework, FastAPI, for seamless data handling and asynchronous task management. | `Python`, `FastAPI`, `API Design` |
-| **[E-Commerce1](https://github.com/AbhiramGarg/E-Commerce1)** | My initial full-stack e-commerce platform project. Highlights proficiency in modern web development, front-end state management, and robust server interaction. | `TypeScript`, `Web Dev`, `Full-Stack` |
-
-<br>
 
 ---
 
